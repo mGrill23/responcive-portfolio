@@ -55,3 +55,9 @@ body{
     border-spacing: 20px;
 }
 
+@media screen and (max-width: 768px){
+    .wrapper {
+        width: 600px;
+    }
+}
+
